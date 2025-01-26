@@ -5,7 +5,7 @@ import { simpleParser } from 'mailparser';
 // Настройки почтовых ящиков
 const mailboxes = {
     mailbox1: {
-        name: "aristosand@mail.ru",
+        name: "airstosand@mail.ru",
         email: process.env.MAIL_RU_EMAIL_1,
         password: process.env.MAIL_RU_PASSWORD_1,
         emoji: '🔵'  // Синий круг
