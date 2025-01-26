@@ -176,7 +176,7 @@
     "wrappy": "^1.0.2"
   },
     "scripts": {
-        "start": "node index.js",
+        "start": "node bot.js",
         "test": "echo \"Error: no test specified\" && exit 1"
       },
   "keywords": [],
