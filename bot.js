@@ -5,13 +5,13 @@ import { simpleParser } from 'mailparser';
 // Настройки почтовых ящиков
 const mailboxes = {
     mailbox1: {
-        name: "Работа",
+        name: "aristosand@mail.ru",
         email: process.env.MAIL_RU_EMAIL_1,
         password: process.env.MAIL_RU_PASSWORD_1,
         emoji: '🔵'  // Синий круг
     },
     mailbox2: {
-        name: "Личное",
+        name: "aristoss@inbox.ru",
         email: process.env.MAIL_RU_EMAIL_2,
         password: process.env.MAIL_RU_PASSWORD_2,
         emoji: '🟢'  // Зеленый круг
